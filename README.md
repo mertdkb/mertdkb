@@ -36,6 +36,5 @@
 
 - `LinkedIn:` [Mert Dikbıyık](https://www.linkedin.com/in/mertdikbiyik/)
 - `mail:` dikbykmert@gmail.com
-- `Twitter:` [@mertdkb](https://twitter.com/mertdkb)
 
 Feel free to reach out to me. I'm always open to interesting conversations and collaboration opportunities!
