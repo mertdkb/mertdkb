@@ -4,13 +4,12 @@
 
 - 🎓 Electrical and Electronics Engineering student at Akdeniz University.
 - 🔭 I’m currently exploring the world of technology and sharpening my skills in programming.
-- 🌱 Passionate about Java, Spring, and Spring Boot.
+- 🌱 Passionate about Java.
 - ⚡ Love to challenge myself with new projects and always eager to learn.
 
 ## Experience and Education
 
 - 💼 Worked as Software Developer Intern at Fouresia LLC. build Java and Spring projects.
-- 📚 Currently completing the Akbank Java-Spring Bootcamp, gaining hands-on experience in building robust web applications.
 - 🎓 Graduated from various courses and received certifications from renowned institutions, including:
     - ` BTK Academy:` 
       - Introduction to Programming with Java
@@ -25,6 +24,7 @@
       -  Backend Web Development Path with Advanced Java
       -  Ismek Back-End Developer Training Program
       -  Internship Program-Java.
+      -  Akbank Java Spring Bootcamp
 
 ## Interests and Hobbies
 
