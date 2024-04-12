@@ -6,7 +6,7 @@
 ## Experience and Education
 
 - 🎓 Graduated from Akdeniz University Electric and Electronic Engineering
-- 💼 Worked as Software Developer Intern at Fouresia LLC. build API's with Spring.
+- 💼 Working as Software Developer at Fouresia LLC.
   
 ## How to Get in Touch
 
