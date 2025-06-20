@@ -6,7 +6,8 @@
 ## Experience and Education
 
 - 🎓 Graduated from Akdeniz University Electric and Electronic Engineering
-- 💼 Working as Software Developer at Fouresia LLC.
+- 💼 Worked as Software Developer at Fouresia LLC. Build webapps.
+- 💼 Working as SRE at Turkish Technology
   
 ## How to Get in Touch
 
